@@ -5,25 +5,20 @@ To implement Erosion and Dilation using Python and OpenCV.
 1. Anaconda - Python 3.7
 2. OpenCV
 ## Algorithm:
-### Step1:
-Import the necessary packages to do Erosion and Dilution.
+### Step1: Import the necessary packages to do Erosion and Dilution.
 <br>
 
 
-### Step2:
-Create the text image of our name using putText from cv2 package.
+### Step2: Create the text image of our name using putText from cv2 package.
 <br>
 
-### Step3:
-Create the required structural element.
+### Step3: Create the required structural element.
 <br>
 
-### Step4:
-Apply Erode and Dilution for the image.
+### Step4:  Apply Erode and Dilution for the image.
 <br>
 
-### Step5:
-Display the output images.
+### Step5: Display the output images.
 <br>
 
  
